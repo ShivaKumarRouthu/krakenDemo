@@ -1,2 +1,4 @@
-# krakenDemo
-A Demo on Kraken JS framework
+krakenDemo
+===========
+
+a demo on kraken js 
